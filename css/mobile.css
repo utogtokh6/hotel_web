@@ -59,6 +59,12 @@ text-align: center;
 
 #about-info .info-right{
     margin-top: 25px;
+
+}
+
+#about-info .info-right img{
+
+    width: 100%;
 }
 
 
